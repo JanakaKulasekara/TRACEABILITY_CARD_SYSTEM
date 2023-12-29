@@ -30,3 +30,15 @@ D:\J\Visual Studio 2010\Projects\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYST
 D:\J\Visual Studio 2010\Projects\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\obj\x86\Debug\TRACEABILITY_CARD_SYSTEM.csproj.GenerateResource.Cache
 D:\J\Visual Studio 2010\Projects\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\obj\x86\Debug\TRACEABILITY_CARD_SYSTEM.exe
 D:\J\Visual Studio 2010\Projects\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\obj\x86\Debug\TRACEABILITY_CARD_SYSTEM.pdb
+C:\Users\administrator\Source\Repos\JanakaKulasekara\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\bin\Debug\TRACEABILITY_CARD_SYSTEM.exe.config
+C:\Users\administrator\Source\Repos\JanakaKulasekara\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\bin\Debug\TRACEABILITY_CARD_SYSTEM.exe
+C:\Users\administrator\Source\Repos\JanakaKulasekara\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\bin\Debug\TRACEABILITY_CARD_SYSTEM.pdb
+C:\Users\administrator\Source\Repos\JanakaKulasekara\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\obj\x86\Debug\TRACEABILITY_CARD_SYSTEM.csproj.AssemblyReference.cache
+C:\Users\administrator\Source\Repos\JanakaKulasekara\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\obj\x86\Debug\TRACEABILITY_CARD_SYSTEM.ChangePegQty.resources
+C:\Users\administrator\Source\Repos\JanakaKulasekara\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\obj\x86\Debug\TRACEABILITY_CARD_SYSTEM.Login.resources
+C:\Users\administrator\Source\Repos\JanakaKulasekara\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\obj\x86\Debug\TRACEABILITY_CARD_SYSTEM.Properties.Resources.resources
+C:\Users\administrator\Source\Repos\JanakaKulasekara\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\obj\x86\Debug\TRACEABILITY_CARD_SYSTEM.Traceability_Main.resources
+C:\Users\administrator\Source\Repos\JanakaKulasekara\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\obj\x86\Debug\TRACEABILITY_CARD_SYSTEM.csproj.GenerateResource.cache
+C:\Users\administrator\Source\Repos\JanakaKulasekara\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\obj\x86\Debug\TRACEABILITY_CARD_SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\administrator\Source\Repos\JanakaKulasekara\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\obj\x86\Debug\TRACEABILITY_CARD_SYSTEM.exe
+C:\Users\administrator\Source\Repos\JanakaKulasekara\TRACEABILITY_CARD_SYSTEM\TRACEABILITY_CARD_SYSTEM\obj\x86\Debug\TRACEABILITY_CARD_SYSTEM.pdb
