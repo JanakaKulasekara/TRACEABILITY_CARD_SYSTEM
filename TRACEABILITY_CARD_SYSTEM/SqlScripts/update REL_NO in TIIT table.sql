@@ -1,0 +1,32 @@
+--update TIIT1 
+--set tiit1.REL_NO=tbl2.DREL_NO
+select TIIT1.*
+from dbo.TRACE_IFS_INTMD_TAB TIIT1
+inner join 
+
+(select tbl1.* 
+from
+(
+select [DDCOT].[DOP_ID] as DDOPID, [DDCOT].[ORDER_NO] AS DORDER_NO,[DDCOT].[LINE_NO] AS DLINE_NO,[DDCOT].[REL_NO] AS DREL_NO,TIIT.DOP_ID,TIIT.ORDER_NO,TIIT.LINE_NO,TIIT.REL_NO
+from [IFS_LNKD]..[IFSAPP].[DOP_DEMAND_CUST_ORD_TAB]  DDCOT
+inner join
+dbo.TRACE_IFS_INTMD_TAB TIIT
+on [DDCOT].[DOP_ID]=TIIT.DOP_ID
+and [DDCOT].[ORDER_NO]=TIIT.ORDER_NO
+and [DDCOT].[LINE_NO] =TIIT.LINE_NO
+--and [DDCOT].[REL_NO]=TIIT.REL_NO
+--where --[DDCOT].[REL_NO]>1
+--[DDCOT].[CREATE_DATE] between '2016-07-01 00:00:00.000' and '2016-08-31 00:00:00.000'
+) as tbl1
+) as tbl2
+ON TIIT1.DOP_ID=tbl2.DDOPID
+and TIIT1.ORDER_NO=tbl2.DORDER_NO
+and TIIT1.LINE_NO=tbl2.LINE_NO
+--and TIIT1.REL_NO
+--where tbl2.DDOPID in (
+--'6276'
+--)
+
+;
+
+
